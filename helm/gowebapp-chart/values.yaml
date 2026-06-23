@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: avi03/gowebapp
-  tag: "28043032418"
+  tag: "28043280868"
 
 service:
   type: ClusterIP
